@@ -260,7 +260,7 @@ footer {
 
 /* Efekt najechania myszką */
 .discord-button:hover {
-    transform: scale(10);
+    transform: scale(1.2);
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
 }
 
